@@ -1,5 +1,5 @@
 from titanic.model.dataset import Dataset
-from titanic.model.service import Service
+from titanic.model.titanic_service import Service
 import matplotlib.pyplot as plt
 from matplotlib import font_manager, rc
 import seaborn as sns

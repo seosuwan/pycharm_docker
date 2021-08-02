@@ -1,6 +1,6 @@
 import unittest
 
-from basic.numpy_lib import Numpy
+from basic.numpy import Numpy
 
 
 class NumpyTest(unittest.TestCase):
